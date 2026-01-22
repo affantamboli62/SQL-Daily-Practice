@@ -14,9 +14,9 @@ It covers SQL concepts from basics to advanced with hands-on queries.
 - Case Statements
 
 ## 🎯 Purpose
-- Strengthen SQL skills
-- Build consistency with daily practice
-- Prepare for Data Analyst interviews
+- Strengthen SQL skills.
+- Build consistency with daily practice.
+- Prepare for Data Analyst interviews.
 
 ## 🛠 Tools
 - MySQL / PostgreSQL
