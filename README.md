@@ -4,14 +4,14 @@ This repository contains my daily SQL learning and practice.
 It covers SQL concepts from basics to advanced with hands-on queries.
 
 ## 📌 Topics Covered
-- SQL Basics
-- Filtering & Sorting
-- Aggregate Functions
-- Joins
-- Subqueries
-- Window Functions
-- CTEs
-- Case Statements
+- SQL Basics.
+- Filtering & Sorting.
+- Aggregate Functions.
+- Joins.
+- Subqueries.
+- Window Functions.
+- CTEs.
+- Case Statements.
 
 ## 🎯 Purpose
 - Strengthen SQL skills.
