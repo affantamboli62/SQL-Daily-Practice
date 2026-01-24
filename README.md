@@ -5,13 +5,13 @@ It covers SQL concepts from basics to advanced with hands-on queries.
 
 ## 📌 Topics Covered
 - SQL Basics.
-- Filtering & Sorting.
-- Aggregate Functions.
-- Joins.
-- Subqueries.
-- Window Functions.
-- CTEs.
-- Case Statements.
+- Filtering & Sorting
+- Aggregate Functions
+- Joins
+- Subqueries
+- Window Functions
+- CTEs
+- Case Statements
 
 ## 🎯 Purpose
 - Strengthen SQL skills.
